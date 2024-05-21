@@ -45,7 +45,7 @@ Esta é uma API RESTful desenvolvida em Spring Boot para realizar operações CR
 
    ```bash
    git clone https://github.com/Rwilliamsc/ProductsAPISpring.git
-   cd product.api
+   cd ProductsAPISpring
    ```
 
 2. Compile o projeto e baixe as dependências:
